@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Hanane%20Nour/Documents/NetBeansProjects/Project/src/guis/ManageContacts.java</file>
+            <file>file:/C:/Users/Hanane%20Nour/Documents/NetBeansProjects/Project/src/users/Blocked.java</file>
+            <file>file:/C:/Users/Hanane%20Nour/Documents/NetBeansProjects/Project/src/generic/Collection.java</file>
+            <file>file:/C:/Users/Hanane%20Nour/Documents/NetBeansProjects/Project/src/chats/MediaMessage.java</file>
+            <file>file:/C:/Users/Hanane%20Nour/Documents/NetBeansProjects/Project/src/chats/GroupConversation.java</file>
+            <file>file:/C:/Users/Hanane%20Nour/Documents/NetBeansProjects/Project/src/calls/CallComparator.java</file>
+            <file>file:/C:/Users/Hanane%20Nour/Documents/NetBeansProjects/Project/src/users/Contact.java</file>
+            <file>file:/C:/Users/Hanane%20Nour/Documents/NetBeansProjects/Project/src/users/Profile.java</file>
+            <file>file:/C:/Users/Hanane%20Nour/Documents/NetBeansProjects/Project/src/users/NameException.java</file>
+            <file>file:/C:/Users/Hanane%20Nour/Documents/NetBeansProjects/Project/src/settings/DataStorageSettings.java</file>
+            <file>file:/C:/Users/Hanane%20Nour/Documents/NetBeansProjects/Project/src/calls/Status.java</file>
+            <file>file:/C:/Users/Hanane%20Nour/Documents/NetBeansProjects/Project/src/guis/ContactJFrame.java</file>
+            <file>file:/C:/Users/Hanane%20Nour/Documents/NetBeansProjects/Project/src/users/Account.java</file>
+            <file>file:/C:/Users/Hanane%20Nour/Documents/NetBeansProjects/Project/src/chats/GroupConversationComparator.java</file>
+            <file>file:/C:/Users/Hanane%20Nour/Documents/NetBeansProjects/Project/src/chats/ConversationComparator.java</file>
+            <file>file:/C:/Users/Hanane%20Nour/Documents/NetBeansProjects/Project/src/settings/Network.java</file>
+            <file>file:/C:/Users/Hanane%20Nour/Documents/NetBeansProjects/Project/src/testing/WhatsappTest.java</file>
+            <file>file:/C:/Users/Hanane%20Nour/Documents/NetBeansProjects/Project/src/calls/Type.java</file>
+            <file>file:/C:/Users/Hanane%20Nour/Documents/NetBeansProjects/Project/src/chats/TextMessage.java</file>
+            <file>file:/C:/Users/Hanane%20Nour/Documents/NetBeansProjects/Project/src/users/ContactComparator.java</file>
+            <file>file:/C:/Users/Hanane%20Nour/Documents/NetBeansProjects/Project/src/chats/Conversation.java</file>
+            <file>file:/C:/Users/Hanane%20Nour/Documents/NetBeansProjects/Project/src/settings/Media.java</file>
+            <file>file:/C:/Users/Hanane%20Nour/Documents/NetBeansProjects/Project/src/generic/NotFoundException.java</file>
+            <file>file:/C:/Users/Hanane%20Nour/Documents/NetBeansProjects/Project/src/users/AboutException.java</file>
+            <file>file:/C:/Users/Hanane%20Nour/Documents/NetBeansProjects/Project/src/chats/Message.java</file>
+            <file>file:/C:/Users/Hanane%20Nour/Documents/NetBeansProjects/Project/src/calls/Call.java</file>
+        </group>
+    </open-files>
+</project-private>
